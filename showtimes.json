@@ -1,0 +1,52 @@
+{
+    "showtimes": [
+        {
+        "title": "The Shawshank Redemption",
+        "showtime": "12:00 PM",
+        "date": "April 12, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-shawshank-redemption"
+        },
+        {
+        "title": "The Godfather",
+        "showtime": "3:00 PM",
+        "date": "April 12, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-godfather"
+        },
+        {
+        "title": "The Dark Knight",
+        "showtime": "6:00 PM",
+        "date": "April 12, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-dark-knight"
+        },
+        {
+        "title": "Forrest Gump",
+        "showtime": "1:00 PM",
+        "date": "April 13, 2023",
+        "buy_tickets_url": "https://example.com/tickets/forrest-gump"
+        },
+        {
+        "title": "The Matrix",
+        "showtime": "4:00 PM",
+        "date": "April 13, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-matrix"
+        },
+        {
+        "title": "The Lion King",
+        "showtime": "7:00 PM",
+        "date": "April 13, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-lion-king"
+        },
+        {
+        "title": "The Social Network",
+        "showtime": "2:00 PM",
+        "date": "April 14, 2023",
+        "buy_tickets_url": "https://example.com/tickets/the-social-network"
+        },
+        {
+        "title": "Inception",
+        "showtime": "5:00 PM",
+        "date": "April 14, 2023",
+        "buy_tickets_url": "https://example.com/tickets/inception"
+        }
+    ]
+}
